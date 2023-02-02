@@ -2,3 +2,4 @@
 반갑습니다. 또 테스트 용 커밋2
 
 저는 github의 develop 브랜치에 올리고 싶습니다!
+develop에 올렸지만 pull request를 만들고 싶습니다!
