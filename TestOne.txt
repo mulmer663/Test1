@@ -3,3 +3,6 @@
 
 저는 github의 develop 브랜치에 올리고 싶습니다!
 develop에 올렸지만 pull request를 만들고 싶습니다!
+
+1. 일단 3way 로 병합해야함
+2. 그다음 develop에 push 할때 pull request로 받아야함
